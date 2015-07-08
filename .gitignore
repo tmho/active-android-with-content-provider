@@ -1,0 +1,7 @@
+build
+.idea
+.gradle
+local.properties
+active-android-with-content-provider.iml
+app/build
+app/app.iml
